@@ -12,7 +12,7 @@ convert
 </summary>
 </member><member name="P:convert.My.Resources.Resources.Culture">
 	<summary>
-  Overrides the current thread's CurrentUICulture property for all
+  Overrides the a current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
 </member><member name="T:convert.My.Resources.Resources">
